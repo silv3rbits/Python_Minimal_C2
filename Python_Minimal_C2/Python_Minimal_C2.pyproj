@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4908ba25-8c71-4fb5-8f53-a859f5a95af7</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python_Minimal_C2.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +24,6 @@
   <ItemGroup>
     <Compile Include="Client\Client_Beacon.py" />
     <Compile Include="Client\File_Tranfer_Tool.py" />
-    <Compile Include="Python_Minimal_C2.py" />
     <Compile Include="Server\Socket_Server.py" />
   </ItemGroup>
   <ItemGroup>
